@@ -1,2 +1,2 @@
 # Python
-Liga de exercicios basicos de Python
+Lista de exercicios basicos de Python
